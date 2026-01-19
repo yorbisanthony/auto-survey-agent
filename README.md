@@ -1,4 +1,4 @@
-# Auto-Research Agent (ARAP)
+# Auto-Survey Agent
 
 [English](README.md) | [中文](README_zh.md)
 
